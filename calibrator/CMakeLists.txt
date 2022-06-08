@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( Calibration )
+find_package( OpenCV REQUIRED )
+add_executable( Calibration /usr/lib/x86_64-linux-gnu/opencv_contrib-master/modules/aruco/samples/calibrate_camera_charuco.cpp )
+target_link_libraries( Calibration ${OpenCV_LIBS} )

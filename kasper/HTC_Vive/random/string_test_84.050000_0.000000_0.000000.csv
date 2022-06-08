@@ -1,0 +1,8 @@
+measured:
+translation:
+84.05;0;0
+Frame vr_base exists with parent ROOT.
+Frame tracker3.0_LHR_32DA5600 exists with parent vr_base.
+Frame lighthouse_LHB_D5E9E27C exists with parent vr_base.
+
+string_test_84.050000_0.000000_0.000000.csv

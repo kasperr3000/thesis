@@ -1,0 +1,20 @@
+image_width: 1920
+image_height: 1080
+camera_name: aruco_camera
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [1795.9838747353358, 0.0, 938.67003920500588, 0.0, 1796.9906522611184, 525.55836115940713, 0.0, 0.0, 1.0]
+distortion_model: ''
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [-0.026566537916804241, -0.30092829106245439, -0.0017868886007080666, -0.0010930861454906487, 0.62446177445433915]
+rectification_matrix:
+  rows: 0
+  cols: 0
+  data: []
+projection_matrix:
+  rows: 0
+  cols: 0
+  data: []

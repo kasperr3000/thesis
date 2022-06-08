@@ -1,0 +1,8 @@
+string techniek "HTC_Vive"
+string testgroep "random"
+string pre_info ""
+bool with_orientation false
+string device
+geometry_msgs/Pose position_measured
+---
+string file_name

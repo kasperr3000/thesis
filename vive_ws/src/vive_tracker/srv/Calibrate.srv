@@ -1,0 +1,6 @@
+geometry_msgs/Vector3 calibrate_vector
+geometry_msgs/Vector3 calibrate_orientation
+string trackername 'tracker3.0_LHR_32DA5600'
+bool calibrate
+---
+string response
